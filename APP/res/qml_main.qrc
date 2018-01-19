@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml_main/Main/Main.qml</file>
+        <file>qml_main/Boot/Boot.qml</file>
+        <file>qml_main/View/QCamera/QCamera.qml</file>
+        <file>qml_main/View/ViewManager.qml</file>
+        <file>qml_main/View/ViewMenu/ViewMenu.qml</file>
+        <file>qml_main/View/QCamera/ImagePreview.qml</file>
+        <file>qml_main/View/SelectList/SelectList.qml</file>
+        <file>qml_main/View/Numpad/Numpad.qml</file>
+        <file>qml_main/View/EventLoopTest/EventLoopTest.qml</file>
+        <file>qml_main/View/EventLoopTest/ConfirmBox.qml</file>
+        <file>qml_main/View/NewtonsoftJson/NewtonsoftJson.qml</file>
+        <file>qml_main/View/WeidgetTest/WeidgetTest.qml</file>
+        <file>qml_main/View/Test/Test.qml</file>
+    </qresource>
+</RCC>

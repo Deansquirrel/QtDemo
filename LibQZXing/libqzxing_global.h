@@ -1,0 +1,12 @@
+#ifndef LIBQZXING_GLOBAL_H
+#define LIBQZXING_GLOBAL_H
+
+#include <QtCore/qglobal.h>
+
+#if defined(LIBQZXING_LIBRARY)
+#  define LIBQZXINGSHARED_EXPORT Q_DECL_EXPORT
+#else
+#  define LIBQZXINGSHARED_EXPORT Q_DECL_IMPORT
+#endif
+
+#endif // LIBQZXING_GLOBAL_H

@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml_com/Note.qml</file>
+        <file>qml_com/Button.qml</file>
+        <file>qml_com/ComSelectList/ComSelectList.qml</file>
+        <file>qml_com/ComNumpad/ComNumpad.qml</file>
+        <file>qml_com/ComNumpad/DeleteBtn.qml</file>
+        <file>qml_com/ComSelectList/SelectListPopup.qml</file>
+        <file>qml_com/ComNumpad/back.png</file>
+        <file>qml_com/ComNumpad/backDisenabled.png</file>
+    </qresource>
+</RCC>

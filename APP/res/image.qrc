@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/barchart.png</file>
+        <file>image/chat.png</file>
+        <file>image/commerce.png</file>
+        <file>image/devices.png</file>
+        <file>image/document.png</file>
+        <file>image/documents.png</file>
+        <file>image/gears.png</file>
+        <file>image/mail.png</file>
+        <file>image/piechart.png</file>
+        <file>image/setting.png</file>
+        <file>image/support.png</file>
+        <file>image/tools.png</file>
+        <file>image/wallet.png</file>
+        <file>image/back.png</file>
+        <file>image/save.png</file>
+        <file>image/left.png</file>
+        <file>image/right.png</file>
+        <file>image/add.png</file>
+        <file>image/leftLight.png</file>
+        <file>image/rightLight.png</file>
+        <file>image/backBlack.png</file>
+        <file>image/saveBlack.png</file>
+        <file>image/logOff.png</file>
+        <file>image/sure.png</file>
+        <file>image/search.png</file>
+    </qresource>
+</RCC>
